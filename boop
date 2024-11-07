@@ -1,2 +1,6 @@
 # Slack API Key
 user api token: xoxp-4310778528935-4310827832855-7997766153508-96bb192b6716035d552633f675e51840
+
+[default]
+aws_access_key_id = AKIAQ4NXQJCYNU2CTTRH
+aws_secret_access_key = 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
